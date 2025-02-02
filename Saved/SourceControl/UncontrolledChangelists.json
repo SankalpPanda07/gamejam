@@ -13,7 +13,10 @@
 				"C:/Users/User/Documents/GitHub/gamejam/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/User/Documents/GitHub/gamejam/Content/Blueprints/AI/BT_Enemy.uasset",
 				"C:/Users/User/Documents/GitHub/gamejam/Content/Blueprints/AI/BTTask_MoveTo.uasset",
-				"C:/Users/User/Documents/GitHub/gamejam/Content/Blueprints/AI/BB_Enemy.uasset"
+				"C:/Users/User/Documents/GitHub/gamejam/Content/Blueprints/AI/BB_Enemy.uasset",
+				"C:/Users/User/Documents/GitHub/gamejam/Content/Blueprints/GridManager.uasset",
+				"C:/Users/User/Documents/GitHub/gamejam/Content/Blueprints/Farm_Test.uasset",
+				"C:/Users/User/Documents/GitHub/gamejam/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/IN/FC1MOWVJIPOEV0B05YF2AO.uasset"
 			]
 		}
 	]
