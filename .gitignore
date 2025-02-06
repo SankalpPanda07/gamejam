@@ -8,3 +8,6 @@ Saved/Config/WindowsEditor/Editor.ini
 /Intermediate
 /Intermediate
 *.bin
+/Intermediate
+/Content/__ExternalActors__
+Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/CG/PTZSC16Z4W8Q3B68OX78W7.uasset
